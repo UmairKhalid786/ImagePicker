@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_bottom_sheet_title_color">#646464</color>
+    <color name="md_divider_color">#A0A0A0</color>
+</resources>
